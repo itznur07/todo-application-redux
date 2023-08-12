@@ -3,5 +3,4 @@ const initialState = {
   color: [],
 };
 
-
-export default initialState
+export default initialState;
